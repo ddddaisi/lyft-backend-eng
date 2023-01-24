@@ -1,2 +1,7 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Lyft Back-End Engineering Virtual Experience Program
+This repo contains the code for Lyft Back-end Engineering VEP with Forage
+
+Software Architecture Design and UML diagrams
+Refactoring
+Unit Testing
+Test-Driven Development (TDD)
